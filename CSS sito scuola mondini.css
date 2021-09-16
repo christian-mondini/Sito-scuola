@@ -1,0 +1,61 @@
+#Testata{
+    margin-top: 10px;
+    padding:0px 5px;
+    
+
+}
+
+.Plessi{
+    
+    border-radius: 4px ;
+    margin: 10px;
+    border: 1px solid #8f8f8f;    
+    background-color: #ececec;
+     
+}
+
+#Tasti{
+
+    border: 1px solid #000080;
+    background-color: blue;
+    margin:5px;
+}
+
+#scritte{
+    color: blue;
+    margin:5px 0px;
+    float:left;
+}
+
+#immagini{
+
+    width: 130px;
+    text-align: center;
+    image-orientation: center;
+    margin:5px;
+}
+
+#Titoli{
+
+    color: blue;
+    margin: 10px;
+}
+
+#Sottotitoli{
+
+    color: red;
+    margin:10px 5px;
+}
+
+#Titolini{
+    color: blue;
+    margin:20px 10px;
+
+}
+
+mark {
+    background-color: 	yellow;
+    color: #000066;
+  }
+
+
