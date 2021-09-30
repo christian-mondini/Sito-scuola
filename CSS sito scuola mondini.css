@@ -1,7 +1,8 @@
 #Testata{
     margin-top: 10px;
     padding:0px 5px;
-    
+    background-color:white;
+    padding: 5px;
 
 }
 
@@ -14,11 +15,61 @@
      
 }
 
+
+
+#Coloriprimescritte{
+    color:#808080;
+
+}
+
+
 #Tasti{
 
     border: 1px solid #000080;
     background-color: blue;
     margin:5px;
+}
+#Bottoninavbar{
+    background-color: blue;
+     color: white;
+     border:black;
+     border-radius: 10px;
+}
+
+#Centrato{
+    text-align: center;
+}
+
+#Giallo{
+
+    background-color: yellow;
+}
+
+#Blu{
+    background-color:blu;
+}
+
+#Bianco{
+
+    color: white;
+}
+
+#Gainsboro{
+    background-color:gainsboro;
+}
+
+#Ghostwhite{
+    background-color: ghostwhite; width: auto; float: center;
+}
+
+#Immaginerepubblica{
+    width: 180px;
+
+}
+
+#Immaginecertiquality{
+
+    width: 140px;
 }
 
 #scritte{
@@ -51,6 +102,27 @@
     color: blue;
     margin:20px 10px;
 
+}
+
+#Scrittenormali{
+    margin:5px;
+
+}
+
+#Scritteplessi{
+    margin-top: 5px;
+}
+
+#Bottonicookie{
+    font-size: 15px; margin-top:30px;
+}
+
+#Scrittafinale1{
+    text-align: center; font-size: 13px;
+}
+
+#Scrittafinale2{
+    text-align: center; font-size: 10px;
 }
 
 mark {
